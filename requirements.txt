@@ -1,6 +1,6 @@
 ﻿attrs==23.1.0
 beautifulsoup4==4.12.2
-blinker==1.7.0
+blinker==1.6.3
 certifi==2023.7.22
 cffi==1.16.0
 charset-normalizer==3.3.2
