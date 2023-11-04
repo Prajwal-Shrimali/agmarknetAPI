@@ -28,7 +28,7 @@ trio==0.22.2
 trio-websocket==0.11.1
 urllib3==2.0.7
 wcwidth==0.2.9
-werkzeug==3.0.1
+werkzeug==2.2.3
 wsproto==1.2.0
 zipp==3.17.0
 gunicorn==20.1.0
